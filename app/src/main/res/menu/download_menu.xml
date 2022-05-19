@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/saveAs"
+        android:title="@string/item_saveAs">
+    </item>
+    <item android:id="@+id/save"
+        android:title="@string/item_save">
+    </item>
+    <item android:id="@+id/upload"
+        android:title="@string/item_upload">
+    </item>
+    <item android:id="@+id/download"
+        android:title="@string/item_download">
+    </item>
+    <item android:id="@+id/copy"
+        android:title="@string/item_copy">
+    </item>
+</menu>
